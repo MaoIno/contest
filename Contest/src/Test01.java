@@ -8,7 +8,7 @@ public class Test01 {
         Solution solution = new Solution();
         int s=solution.maxSubArray(test);
         System.out.println(s);
-
+        System.out.println("over");
     }
 }
 class Solution {
